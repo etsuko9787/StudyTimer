@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\StudyTimer\bin\Debug\StudyTimer.exe.config
+C:\Users\user\source\repos\StudyTimer\bin\Debug\StudyTimer.exe
+C:\Users\user\source\repos\StudyTimer\bin\Debug\StudyTimer.pdb
+C:\Users\user\source\repos\StudyTimer\bin\Debug\StudyTimer.xml
+C:\Users\user\source\repos\StudyTimer\obj\Debug\StudyTimer.vbproj.AssemblyReference.cache
+C:\Users\user\source\repos\StudyTimer\obj\Debug\StudyTimer.vbproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\StudyTimer\obj\Debug\StudyTimer.Resources.resources
+C:\Users\user\source\repos\StudyTimer\obj\Debug\StudyTimer.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\StudyTimer\obj\Debug\StudyTimer.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StudyTimer\obj\Debug\StudyTimer.exe
+C:\Users\user\source\repos\StudyTimer\obj\Debug\StudyTimer.xml
+C:\Users\user\source\repos\StudyTimer\obj\Debug\StudyTimer.pdb
+C:\Users\user\source\repos\StudyTimer\obj\Debug\StudyTimer.Form1.resources
