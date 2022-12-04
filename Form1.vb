@@ -19,10 +19,15 @@ Public Class Form1
         If vv > 59 Then
             vv = 0
             tt = tt + 1
+            If tt > 59 Then
+                tt = 0
+                ss += 1
+            End If
         End If
-        If tt = 2 Then
+        If ss = 59 Then
             vv = 0
             tt = 0
+            ss = 0
             Label1.Text = "00:00:00"
             Timer1.Enabled = False
             MessageBox.Show("Time Ended")
